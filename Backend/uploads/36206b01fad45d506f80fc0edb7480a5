@@ -1,0 +1,22 @@
+{
+  "location": {
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+  "date": "2024-02-02",
+  "stats": {
+    "moisture": 35.2, // Percentage
+    "humidity": 68.4, // Percentage
+    "temperature": 23.1, // Celsius
+    "wind_speed": 5.2, // km/h
+    "nitrogen": 120, // ppm
+    "phosphorus": 55, // ppm
+    "potassium": 220, // ppm
+    "pesticide_residue": {
+      "chlorpyrifos": 0.002, // ppm
+      "imidacloprid": 0.001, // ppm
+      "none_detected": ["profenofos", "cypermethrin"] // List of pesticides not detected
+    }
+  }
+}

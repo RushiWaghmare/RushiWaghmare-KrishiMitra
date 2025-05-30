@@ -1,0 +1,15 @@
+{
+   "crop": "corn",
+   "year": 2025,
+   "month": 4,
+   "region": "Karnataka",
+   "temperature": 23.88,
+   "rainfall": 49.7,
+   "area": 404.99,
+   "price": 2991.05,
+   "season": "Kharif",
+   "soil_type": "Alluvial",
+   "msp": 3189.54,
+   "crop_category": "Cereal",
+   "msp_difference": -198.49
+ }
